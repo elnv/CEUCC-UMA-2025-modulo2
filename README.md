@@ -22,5 +22,5 @@ Jupiter notebooks para este módulo:
 
 - <a href="https://colab.research.google.com/github/elnv/CEUCC-UMA-2025-modulo2/blob/main/nb/nb08-modulo2-entanglement.ipynb"> nb08. Entanglement </a>
 
-- <a href="https://colab.research.google.com/github/elnv/CEUCC-UMA-2025-modulo2/blob/main/nb/nb09-estado-inicial-oraculos.ipynb"> nb09. Oráculos </a>
+- <a href="https://colab.research.google.com/github/elnv/CEUCC-UMA-2025-modulo2/blob/main/nb/nb09-circuitos%2Boraculos.ipynb"> nb09. Circuitos y oráculos </a>
 
